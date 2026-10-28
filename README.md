@@ -2,6 +2,14 @@
 
 A 3D endless subway runner for phones, inspired by Subway Surfers. It's a single HTML page built on Three.js (r128, loaded from cdnjs).
 
+## Graphics
+
+- Rounded cartoon characters built from code: capsule limbs, sculpted hair and hats, and painted faces that blink.
+- Filmic (ACES) tone mapping with real-time soft sun shadows and sky-lit reflections. Trains, rails and coins shine.
+- Bevelled trains with reflective windows and glowing headlights. Real 3D sleepers and steel rails on gravel.
+- A city with balconies, rooftop water tanks, trees, lamp posts and overpass bridges.
+- Quality drops automatically (resolution, then shadow detail) if a phone can't hold the frame rate.
+
 ## How to play
 
 | Gesture | Action |
